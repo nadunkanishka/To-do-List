@@ -76,7 +76,7 @@ Follow these steps to run the To Do List App on your local machine:
 1. **Open the Application:**
    - In your web browser, navigate to:
      ```
-     http://localhost/todo-list-app/
+     http://localhost/To-do-List-main/index.php
      ```
 
 2. **Using the App:**
